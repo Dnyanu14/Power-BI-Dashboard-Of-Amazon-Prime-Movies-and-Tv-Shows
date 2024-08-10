@@ -22,7 +22,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/YourUsername/amazon-prime-power-bi-dashboard.git
+git clone https://github.com/Dnyanu14/Power-BI-Dashboard-Of-Amazon-Prime-Movies-and-Tv-Shows.git
 Open the Power BI File:
 
 Navigate to the cloned directory.
